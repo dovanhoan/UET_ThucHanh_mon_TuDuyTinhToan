@@ -1,0 +1,6 @@
+# Simple menu
+print("=== AI Prediction System ===")
+print("1) Sentiment analysis")
+print("2) Weather forecast")
+print("3) Exit")
+print("Please choose an option:")

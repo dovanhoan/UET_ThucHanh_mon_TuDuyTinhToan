@@ -1,0 +1,6 @@
+print("=== AI Prediction System ===")
+print("1) Sentiment analysis")
+print("2) Weather forecast")
+print("3) Exit")
+option = input("Please choose an option: ")
+print('you have select option:', option)
